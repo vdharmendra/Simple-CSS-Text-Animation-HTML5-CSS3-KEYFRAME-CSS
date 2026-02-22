@@ -10,6 +10,7 @@ Virendra D. Verma
 <a href="https://www.linkedin.com/in/dharmendraverma95/" target="_blank">🧑‍💻 LinkedIn Profile </a> | <a href="https://www.behance.net/dhirukumar" target="_blank">🧑‍💻 Behance Profile </a>
 - 
 
+## DEMO:- 
 
 ### 📌 Project Description
 This project displays an animated text effect where words flip vertically in a loop.
